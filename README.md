@@ -1,4 +1,6 @@
-<img width="416" height="382" align=center alt="Screenshot 2025-08-07 135501" src="https://github.com/user-attachments/assets/30c45349-38c8-40aa-abe3-61ee1c24627e"/>
+<div  align=center >
+  <img width="416" height="382" alt="Screenshot 2025-08-07 135501" src="https://github.com/user-attachments/assets/30c45349-38c8-40aa-abe3-61ee1c24627e"/>
+</div>
 <br/>
 🧠 Wordle Solver
 <br/>
