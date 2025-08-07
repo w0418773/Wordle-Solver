@@ -1,4 +1,5 @@
 <img width="417" height="382" alt="Screenshot 2025-08-06 160011" src="https://github.com/user-attachments/assets/8d38fa8e-1757-4a38-a6a4-85e2e3b7efb5" />
+<br/>
 🧠 Wordle Solver
 During the height of the Wordle craze, I wanted to create a tool that could help solve the daily puzzle more strategically and efficiently. This project is a Wordle-solving assistant that suggests optimal guesses based on your feedback after each attempt.
 
