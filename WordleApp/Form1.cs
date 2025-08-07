@@ -12,7 +12,7 @@ namespace WordleApp
 {
     public partial class WordleSolver : Form
     {
-        string[] words = System.IO.File.ReadAllLines(@"C:\Users\snook\OneDrive\Desktop\Wordle\WordleApp\res\words.txt");
+        string[] words = System.IO.File.ReadAllLines(@"..\..\..\res\words.txt");
         List<string> incorrectLetters = new List<string>();
         Dictionary<int, string> correctLetters = new Dictionary<int, string>();
         List<List<string>> incorrectSpot = new List<List<string>>();
@@ -44,7 +44,7 @@ namespace WordleApp
 
         public void Reset()
         {
-            words = System.IO.File.ReadAllLines(@"C:\Users\snook\OneDrive\Desktop\Wordle\WordleApp\res\words.txt");
+            words = System.IO.File.ReadAllLines(@"..\..\..\res\words.txt");
             incorrectLetters.Clear();
             incorrectSpot.Clear();
             correctLetters.Clear();
