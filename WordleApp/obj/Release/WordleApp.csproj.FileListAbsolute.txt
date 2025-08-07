@@ -1,0 +1,10 @@
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.csproj.AssemblyReference.cache
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\bin\Release\WordleApp.exe.config
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\bin\Release\WordleApp.exe
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\bin\Release\WordleApp.pdb
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.WordleSolver.resources
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.Properties.Resources.resources
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.csproj.GenerateResource.cache
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.csproj.CoreCompileInputs.cache
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.exe
+C:\Users\snook\OneDrive\Desktop\SoftwareDev\Wordle-Solver\WordleApp\obj\Release\WordleApp.pdb
