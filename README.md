@@ -4,6 +4,7 @@
   margin-right: auto;"/>
 <br/>
 🧠 Wordle Solver
+<br/>
 During the height of the Wordle craze, I wanted to create a tool that could help solve the daily puzzle more strategically and efficiently. This project is a Wordle-solving assistant that suggests optimal guesses based on your feedback after each attempt.
 
 The program works by maintaining a list of valid five-letter English words and narrowing down the possibilities based on how you mark each letter in your guess:
