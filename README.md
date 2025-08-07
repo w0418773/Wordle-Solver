@@ -5,7 +5,7 @@
 🧠 Wordle Solver
 <br/><br/>
 During the height of the Wordle craze, I wanted to create a tool that could help solve the daily puzzle more strategically and efficiently. This project is a Wordle-solving assistant that suggests optimal guesses based on your feedback after each attempt.
-<br/>
+
 The program works by maintaining a list of valid five-letter English words and narrowing down the possibilities based on how you mark each letter in your guess:
 
 <img width="16" height="16" alt="btn_Correct" src="https://github.com/user-attachments/assets/5b2ba9be-d05f-4aa1-9b67-a138b0e4a59f" />
